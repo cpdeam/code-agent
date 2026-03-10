@@ -14,11 +14,11 @@ npm run dev
 npm run build
 
 # 运行 CLI（构建后）
-bin/codeai
+bin/codeai.js
 
 # 或者在开发期间
 npm run dev  # 在一个终端
-bin/codeai   # 在另一个终端
+bin/codeai.js   # 在另一个终端
 ```
 
 ## 环境变量
