@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 import React, { useState, useEffect } from "react";
 import { render, Box, Text, useApp, useInput } from "ink";
-import TextInput from "ink-text-input";
 import { runQuery } from "./run.js";
 import { TodoList } from "./components/TodoList.js";
 import { MessageLog } from "./components/MessageLog.js";
